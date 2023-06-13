@@ -1,4 +1,5 @@
-# Ad-Pi
-Active Directory Vulnerability Scanner and Exploiter with raspberry pi zero and e-ink screen
+# ADES-pi
+Active Directory Exploiter and Scanner...in a pi with e-ink screen ;-)
+
 
 COMING....
